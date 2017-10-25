@@ -1,1 +1,4 @@
 Requires "nicovideo-dl" to be present in the parent folder.
+Requires "username password" to be the contents of "credential" in current folder.
+
+Usage: "./download.sh smXXXXXX" then "./global.sh smXXXXXX"

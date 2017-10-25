@@ -1,1 +1,1 @@
-../nicovideo-dl -u $1 -p $2 $3
+./nicovideo-dl.sh `cat credentials` http://www.nicovideo.jp/watch/$1
